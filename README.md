@@ -95,7 +95,9 @@ Research Topic:
 ---
 ## Disclaimer
 
-This system is developed for academic purposes only and does not replace clinical diagnosis.
+This system is developed for academic purposes only and does not replace clinical diagnosis.  
+
+---
 
 ## Author
 
