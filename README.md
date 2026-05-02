@@ -79,6 +79,9 @@ This project was completed as part of:
 **MSc Computer Science and Technology**  
 Ulster University, United Kingdom  
 
+Research Topic:
+**Explainable Machine Learning for Heart Disease Risk Prediction Using SHAP and LIME**
+
 ---
 
 ## Future Work
