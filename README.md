@@ -93,11 +93,6 @@ Research Topic:
 - Deployment as a healthcare tool  
 
 ---
-## Disclaimer
-
-This system is developed for academic purposes only and does not replace clinical diagnosis.  
-
----
 
 ## Author
 
@@ -106,4 +101,11 @@ MSc Computer Science and Technology
 Ulster University, United Kingdom  
 
 Github: https://github.com/Dipesh118
+
+---
+## Disclaimer
+
+This system is developed for academic purposes only and does not replace clinical diagnosis.  
+
+---
 
