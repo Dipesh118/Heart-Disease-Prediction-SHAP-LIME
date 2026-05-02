@@ -10,12 +10,12 @@ This project is a machine learning-based clinical decision support system that p
 - ROC Curve and Confusion Matrix
 - Risk classification (Low, Medium, High)
 
-##Model Performance
+## Model Performance
 - Accuracy: ~0.84
 - Recall: ~0.91
 - AUC: ~0.93
 
-##Technologies Used
+## Technologies Used
 - Python
 - Scikit-learn
 - Streamlit
