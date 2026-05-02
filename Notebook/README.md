@@ -6,12 +6,6 @@ The notebook demonstrates the complete workflow, from data preprocessing to mode
 
 ---
 
-## 📁 File
-
-- `Master_Project.ipynb` → Main notebook for model development
-
----
-
 ## 🧠 Objective
 
 The objective of this notebook is to:
