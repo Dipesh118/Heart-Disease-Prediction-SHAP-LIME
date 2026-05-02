@@ -41,10 +41,10 @@ The final system uses:
 ## Project Structure
 
 ```
-heart-disease-prediction
+Heart-Disease-Prediction-SHAP-LIME
 │
-├── prototype/ → Web application (Streamlit)
-├── notebook/ → Model development and analysis
+├── Notebook/ → Model development and analysis
+├── Prototype/ → Web application (Streamlit)
 └── README.md
 
 ```
