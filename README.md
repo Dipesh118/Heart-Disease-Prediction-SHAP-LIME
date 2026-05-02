@@ -87,7 +87,7 @@ Research Topic:
 
 ## Future Work
 
-- Hyperparameter tuning  
+- Exploring larger datasets 
 - Testing deep learning models  
 - Integration with real clinical datasets  
 - Deployment as a healthcare tool  
