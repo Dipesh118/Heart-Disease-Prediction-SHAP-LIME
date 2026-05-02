@@ -1,29 +1,92 @@
-# Heart Disease Prediction System
+# Explainable AI for Heart Disease Prediction
 
-This project is a machine learning-based clinical decision support system that predicts the risk of heart disease using patient health data.
+This repository contains the implementation of my MSc research project focused on applying **machine learning and explainable AI techniques for heart disease risk prediction**.
 
-## Features
-- Logistic Regression model
-- SHAP explanation (global & local)
-- LIME explanation (local interpretability)
-- Interactive Streamlit web application
-- ROC Curve and Confusion Matrix
-- Risk classification (Low, Medium, High)
+The project investigates how predictive models combined with interpretability methods such as **SHAP and LIME** can assist clinical decision-making.
+
+---
+
+## Project Overview
+
+Cardiovascular disease remains one of the leading causes of death globally. Early detection is essential to reduce mortality and improve treatment outcomes.
+
+This project explores the use of **machine learning models** to predict heart disease and integrates **explainable AI techniques** to ensure transparency and trust in predictions.
+
+---
+
+## Research Objective
+
+The objective of this research is to:
+
+- Develop a predictive model for heart disease detection  
+- Evaluate machine learning algorithms (Logistic Regression, Random Forest, XGBoost)  
+- Improve model interpretability using SHAP and LIME  
+- Demonstrate the role of explainable AI in healthcare  
+
+---
+
+## Model Overview
+
+The final system uses:
+
+- **Logistic Regression (Best Model)**
+- Pipeline-based preprocessing
+- Feature encoding and scaling
+- Explainability methods:
+  - SHAP (global + local)
+  - LIME (local explanation)
+
+---
+
+## Project Structure
+heart-disease-prediction
+│
+├── prototype/ → Web application (Streamlit)
+├── notebook/ → Model development and analysis
+└── README.md
+
+---
 
 ## Model Performance
-- Accuracy: ~0.84
-- Recall: ~0.91
-- AUC: ~0.93
+
+- Accuracy: ~0.84  
+- Recall: ~0.91  
+- AUC Score: ~0.93  
+
+These results indicate strong performance, particularly in identifying positive cases.
+
+---
 
 ## Technologies Used
-- Python
-- Scikit-learn
-- Streamlit
-- SHAP
-- LIME
 
-## How to Run
+- Python  
+- Scikit-learn  
+- Streamlit  
+- SHAP  
+- LIME  
+- Pandas / NumPy  
+- Matplotlib  
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+---
+
+## Academic Context
+
+This project was completed as part of:
+
+**MSc Computer Science and Technology**  
+Ulster University, United Kingdom  
+
+---
+
+## Future Work
+
+- Hyperparameter tuning  
+- Testing deep learning models  
+- Integration with real clinical datasets  
+- Deployment as a healthcare tool  
+
+---
+
+## Disclaimer
+
+This system is developed for academic purposes only and does not replace clinical diagnosis.
