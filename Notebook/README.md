@@ -1,4 +1,4 @@
-# 📊 Heart Disease Prediction – Model Development Notebook
+# Heart Disease Prediction – Model Development Notebook
 
 This folder contains the Jupyter Notebook used for developing the machine learning model for heart disease prediction.
 
@@ -6,7 +6,7 @@ The notebook demonstrates the complete workflow, from data preprocessing to mode
 
 ---
 
-## 🧠 Objective
+## Objective
 
 The objective of this notebook is to:
 
@@ -18,7 +18,7 @@ The objective of this notebook is to:
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 The notebook follows a structured machine learning pipeline:
 
@@ -59,7 +59,7 @@ Models were evaluated using:
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 - **Best Model:** Logistic Regression  
 - **Accuracy:** ~0.84  
@@ -70,7 +70,7 @@ The model demonstrates strong performance, particularly in identifying positive 
 
 ---
 
-## 🔍 Explainability
+## Explainability
 
 To improve model transparency, the following techniques were applied:
 
@@ -86,13 +86,13 @@ These methods help explain how different features influence predictions.
 
 ---
 
-## 📌 Outcome
+## Outcome
 
 The notebook establishes a reliable and interpretable machine learning model, which is later deployed as a Streamlit web application.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 You can run this notebook using:
 
