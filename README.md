@@ -101,7 +101,7 @@ This system is developed for academic purposes only and does not replace clinica
 
 **Dipesh Chaudhary**
 
-**MSc Computer Science and Technology**
+MSc Computer Science and Technology
 Ulster University, United Kingdom  
 
 Github: https://github.com/Dipesh118
