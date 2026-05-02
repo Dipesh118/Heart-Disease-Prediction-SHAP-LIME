@@ -100,7 +100,6 @@ This system is developed for academic purposes only and does not replace clinica
 ## Author
 
 **Dipesh Chaudhary**
-
 MSc Computer Science and Technology
 Ulster University, United Kingdom  
 
